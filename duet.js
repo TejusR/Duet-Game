@@ -149,4 +149,4 @@ function drawobs(x,y,w,h)
  ctx.rect(x,y,w,h);
  ctx.fillStyle="white";
  ctx.fill();
-}
+} 
