@@ -1,5 +1,4 @@
 # Duet-Game
 https://tejusr.github.io/Duet-Game/
-Duet Game For Spider Web Dev task
-Not Complete Yet.
-Only Movement of Rishav and Phoebe has been incorporated
+A to rotate counter-clockwise and D to rotate clockwise
+P to pause the game
